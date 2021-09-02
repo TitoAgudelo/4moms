@@ -1,0 +1,37 @@
+#services {
+  align-items: center;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  height: 340px;
+}
+
+.services-item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 201px;
+  margin: 0 80px;
+}
+
+.services-title {
+  color: #222222;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  line-height: 150%;
+  margin: 22.7px 0 9px;
+  text-align: center;
+}
+
+.services-text {
+  color: #636363;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  letter-spacing: 0.05em;
+  line-height: 150%;
+  margin: 0;
+  text-align: center;
+}

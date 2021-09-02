@@ -1,0 +1,38 @@
+#shops {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 0 60px;
+}
+
+.shop {
+  align-items: center;
+  background-color: #F2F2F2;
+  cursor: pointer;
+  display: flex;
+  height: 530px;
+  justify-content: center;
+  margin-bottom: 5px;
+  mix-blend-mode: multiply;
+  position: relative;
+  overflow: hidden;
+  width: 708px;
+}
+
+.shop-title {
+  align-items: center;
+  color: #000;
+  display: flex;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 27px;
+  letter-spacing: 0.05em;
+  left: 40px;
+  text-shadow: 0px 0px 17px rgba(0, 0, 0, 0.1);
+  top: 40px;
+  position: absolute;
+}
+
+.shop-title img {
+  margin-left: 24px;
+}
