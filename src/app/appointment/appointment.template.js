@@ -10,5 +10,7 @@ export default ({ closed }) => `
     <app-playards></app-playards>
     <app-review></app-review>
     <app-community></app-community>
+    <app-learn></app-learn>
+    <app-awards></app-awards>
   </p>
 `

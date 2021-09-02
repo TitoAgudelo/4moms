@@ -9,6 +9,8 @@ import { ShopNow } from './app/shop-now/shop-now.component'
 import { Playards } from './app/playards/playards.component'
 import { Review } from './app/review/review.component'
 import { Community } from './app/community/community.component'
+import { Learn } from './app/learn/learn.component'
+import { Awards } from './app/awards/awards.component'
 
 const components = [
   Header,
@@ -21,6 +23,8 @@ const components = [
   Playards,
   Review,
   Community,
+  Learn,
+  Awards,
   AppointmentComponent
 ]
 

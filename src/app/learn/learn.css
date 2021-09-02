@@ -1,0 +1,34 @@
+#learn {
+  align-items: center;
+  background: #F2F2F2;
+  display: flex;
+  flex-direction: column;
+  height: 518px;
+  padding: 63px 0;
+  width: 100%;
+}
+
+.title {
+  color: #000000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin: 0;
+  margin-bottom: 23px;
+}
+
+.text {
+  color: #636363;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin: 0;
+  margin-bottom: 45px;
+  max-width: 464.79px;
+}

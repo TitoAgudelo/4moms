@@ -1,0 +1,14 @@
+#awards {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 45px 0;
+}
+
+#awards img {
+  margin-right: 44px;
+}
+
+#awards img:last-child {
+  margin-right: 0;
+}
