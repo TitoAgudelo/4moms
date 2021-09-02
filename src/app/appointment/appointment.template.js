@@ -8,5 +8,7 @@ export default ({ closed }) => `
     <app-shop></app-shop>
     <app-shop-now></app-shop-now>
     <app-playards></app-playards>
+    <app-review></app-review>
+    <app-community></app-community>
   </p>
 `

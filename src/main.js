@@ -7,6 +7,8 @@ import { Services } from './app/services/services.component'
 import { Shop } from './app/shop/shop.component'
 import { ShopNow } from './app/shop-now/shop-now.component'
 import { Playards } from './app/playards/playards.component'
+import { Review } from './app/review/review.component'
+import { Community } from './app/community/community.component'
 
 const components = [
   Header,
@@ -17,6 +19,8 @@ const components = [
   Shop,
   ShopNow,
   Playards,
+  Review,
+  Community,
   AppointmentComponent
 ]
 

@@ -1,0 +1,39 @@
+#review {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100px;
+}
+
+.review-comments {
+  align-items: center;
+  background: #FAFAFA;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 414px;
+  width: 940px;
+}
+
+.review-copy {
+  color: #636363;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: 0;
+  margin-bottom: 30px;
+  max-width: 700px;
+}
+
+.review-author{
+  color: #000000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+}

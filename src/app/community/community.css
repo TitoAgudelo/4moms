@@ -1,0 +1,48 @@
+#community {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+}
+
+.title {
+  color: #222222;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  transform: rotate(-0.1deg);
+  margin: 0;
+}
+
+.community-images {
+  box-sizing: border-box;
+  display: flex;
+  padding: 40px 60px 37px; 
+  width: 100%;
+}
+
+.image-baby-left {
+  height: 556px;
+  width: 556px;
+}
+
+.baby-images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  padding-left: 20px;
+}
+
+.baby-images img {
+  max-width: 267px;
+}
+
+.baby-icon {
+  cursor: pointer;
+  height: 50px;
+  margin-bottom: 54px;
+  width: 50px;
+} 
